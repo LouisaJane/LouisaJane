@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LouisaJane, a postdoc at Reading University
+- 👋 Hi, I’m Dr Louisa Thomas, a postdoc at Reading University (find my personal website here: www.louisa-thomas.com)
 - 👀 I am passionate about neuroscience research in general, and also about research into autism which is conducted with input from autistic people. I love data, data analysis, and coding!
 - 🌱 I’m currently learning more about open science practices, and how to apply different types of comutational models to data.
 
